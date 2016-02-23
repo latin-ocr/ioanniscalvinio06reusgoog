@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio06reusgoog_0017.png"; bbox 0 0 5022 6192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 222 2241 1083 2326">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 222 2241 1083 2326">
+     <span class='ocr_line' id='line_1_1' title="bbox 222 2241 1083 2326; baseline -0.008 1"><span class='ocrx_word' id='word_1_1' title='bbox 222 2243 615 2326; x_wconf 78' lang='lat' dir='ltr'>CONTINENTUR</span> <span class='ocrx_word' id='word_1_2' title='bbox 642 2241 752 2320; x_wconf 85' lang='lat' dir='ltr'>HOC</span> <span class='ocrx_word' id='word_1_3' title='bbox 779 2241 1083 2320; x_wconf 75' lang='lat' dir='ltr'>VOLUMINE=</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 382 2521 1717 2783">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 382 2521 1717 2783">
+     <span class='ocr_line' id='line_1_2' title="bbox 382 2521 1717 2610; baseline -0.004 -14"><span class='ocrx_word' id='word_1_4' title='bbox 382 2523 829 2596; x_wconf 69' lang='lat' dir='ltr'>oomfflmom</span> <span class='ocrx_word' id='word_1_5' title='bbox 849 2523 901 2594; x_wconf 79' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 923 2524 1133 2610; x_wconf 58' lang='lat' dir='ltr'>‹2QO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1154 2523 1327 2594; x_wconf 76' lang='lat' dir='ltr'><strong>mssnos</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1349 2523 1502 2594; x_wconf 69' lang='lat' dir='ltr'><strong>nosm.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1545 2521 1665 2593; x_wconf 72' lang='lat' dir='ltr'>ms</span> <span class='ocrx_word' id='word_1_10' title='bbox 1687 2522 1717 2591; x_wconf 88' lang='lat'>1.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 385 2693 1565 2783; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 385 2711 602 2783; x_wconf 63' lang='lat' dir='ltr'>sannons</span> <span class='ocrx_word' id='word_1_12' title='bbox 625 2711 716 2781; x_wconf 67' lang='lat' dir='ltr'>sulz</span> <span class='ocrx_word' id='word_1_13' title='bbox 737 2709 914 2780; x_wconf 70' lang='lat' dir='ltr'>nlvnsss</span> <span class='ocrx_word' id='word_1_14' title='bbox 937 2710 1176 2780; x_wconf 69' lang='lat' dir='ltr'>PAssAons</span> <span class='ocrx_word' id='word_1_15' title='bbox 1199 2710 1263 2779; x_wconf 68' lang='lat' dir='ltr'>nn</span> <span class='ocrx_word' id='word_1_16' title='bbox 1284 2709 1349 2779; x_wconf 72' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_17' title='bbox 1370 2693 1565 2780; x_wconf 60' lang='lat' dir='ltr'><strong>amsla.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2516 6192">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2516 6192">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2516 6192; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2516 6192; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
